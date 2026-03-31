@@ -1,20 +1,21 @@
-### Hi, I'm Freed! 🧊
+### Hi, I'm Freed
 
-I'm a full-stack developer focused on building websites and applications.
+Full-stack developer. Cross-platform apps and LLM integrations.
 
-- Interested in building something awesome? Reach out!
-
-- 💌 **Email me**: [freed@duck.com](mailto:freed@duck.com)
+💌 [freed@duck.com](mailto:freed@duck.com)
 
 ---
 
-### **Tech Stack**
+### Tech Stack
 
-**Frontend:**
+**Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,nuxt,react,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,react,vue,nuxt,flutter,swift)](https://skillicons.dev)
 
+**Backend**
 
-**Backend:**
+[![Skills](https://skillicons.dev/icons?i=python,nodejs,go,dart,cpp,fastapi,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,python,go,js,ts)](https://skillicons.dev)
+**Platforms**
+
+[![Skills](https://skillicons.dev/icons?i=androidstudio,apple,windows,linux)](https://skillicons.dev)
